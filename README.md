@@ -29,3 +29,5 @@ This repository contains a simple Node.js API and a React client used for a user
 5. Open `http://localhost:3000` in your browser to use the application.
 
 The client now displays an animated banner welcoming you to **DevOps Shack**.
+
+<img width="1919" height="1039" alt="image" src="https://github.com/user-attachments/assets/b5cfb1a7-e87a-41d6-9e42-191a1ddd4779" />
